@@ -1,7 +1,7 @@
 # TEXT-SUMMARIZATION-TOOL
 Company: CODTECH IT SOLUTIONS
 Name: K JEEVAN KUMAR
-Intern ID: COD08111
+Intern ID: CTO6DG3457
 Domain: Artificial intelligence 
 Duration: 4 WEEKS
 Mentor: NEELA SANTOSH
